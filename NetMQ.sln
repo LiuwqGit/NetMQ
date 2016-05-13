@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQ_Client", "NetMQ_Client\NetMQ_Client.csproj", "{D4D5B58D-C65E-4033-BB46-B00F77D549AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQ_Server", "NetMQ_Server\NetMQ_Server.csproj", "{96207FF3-C272-4C03-821C-E5C708A70347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQ_Ventilator", "NetMQ_Ventilator\NetMQ_Ventilator.csproj", "{1C3BC898-AB0C-4B72-B50C-235CE28288A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQ_Worker", "NetMQ_Worker\NetMQ_Worker.csproj", "{8D70C2EF-4C92-41C2-8B8F-99BE17A072B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQ_Sink", "NetMQ_Sink\NetMQ_Sink.csproj", "{2583887F-8AD5-45FA-A49B-6912E8F93CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D5B58D-C65E-4033-BB46-B00F77D549AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D5B58D-C65E-4033-BB46-B00F77D549AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D5B58D-C65E-4033-BB46-B00F77D549AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D5B58D-C65E-4033-BB46-B00F77D549AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96207FF3-C272-4C03-821C-E5C708A70347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96207FF3-C272-4C03-821C-E5C708A70347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96207FF3-C272-4C03-821C-E5C708A70347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96207FF3-C272-4C03-821C-E5C708A70347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3BC898-AB0C-4B72-B50C-235CE28288A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3BC898-AB0C-4B72-B50C-235CE28288A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3BC898-AB0C-4B72-B50C-235CE28288A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3BC898-AB0C-4B72-B50C-235CE28288A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D70C2EF-4C92-41C2-8B8F-99BE17A072B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D70C2EF-4C92-41C2-8B8F-99BE17A072B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D70C2EF-4C92-41C2-8B8F-99BE17A072B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D70C2EF-4C92-41C2-8B8F-99BE17A072B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2583887F-8AD5-45FA-A49B-6912E8F93CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2583887F-8AD5-45FA-A49B-6912E8F93CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2583887F-8AD5-45FA-A49B-6912E8F93CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2583887F-8AD5-45FA-A49B-6912E8F93CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
